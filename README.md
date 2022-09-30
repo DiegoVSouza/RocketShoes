@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="./src/assests/images/logo.svg" alt="logo" width="250">
+  <img src="./src/assets/images/logo.svg" alt="logo" width="250">
 <br>
 <br>
 </h1>
@@ -26,7 +26,7 @@
 - [ReactJs](https://pt-br.reactjs.org/)
 
 ## 👉 Demonstração da aplicação
-  <img src="./src/assets/preview.png" alt="preview">
+  <img src="./src/assets/preview.gif" alt="preview">
 
 
 ## 👨‍💻 Rodando na sua máquina
